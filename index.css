@@ -1,0 +1,47 @@
+h1{
+    text-align: center;
+    color: wheat;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+    letter-spacing: 10px;
+    position: relative;
+    top: -46px;
+}
+
+button{
+    background-color: black;
+    border: none;
+    height: 32px;
+    width: 113px;
+    color: white;
+    font-size: 19px;
+    position: relative;
+    top: 25px;
+    left: 615px;
+    border-radius: 265px;
+    cursor: pointer;
+}
+button:hover{
+    background-color: wheat;
+    color: black;
+}
+body{
+    background-image: url(./images/fieldset.jpg);
+}
+#main{
+    background-color: darkslategrey;
+    height: 241px;
+    position: relative;
+    top: 203px;
+}
+
+#logo{
+    position: relative;
+    top: 378px;
+    left: 701px;
+    height: 71px;
+    width: 82px;
+    z-index: 1;
+    -webkit-animation:  infinite 20s linear;
+    animation: infinite 20s linear;
+}

@@ -1,0 +1,83 @@
+body{
+    background-image: url("./images/login-bg.jpg");
+    font-family: 'Times New Roman', Times, serif;
+}
+#member-text{
+    text-align: center;
+    position: relative;
+    top: 116px;
+    color: black;
+    font-size: 50px;
+    letter-spacing: 10px;
+}
+
+fieldset{
+    width: 373px;
+    height: 247px;
+    border-radius: 20px;
+    position: relative;
+    left: 562px;
+    top: 105px;
+}
+
+#member-img{
+    height: 103px;
+    width: 116px;
+    position: relative;
+    top: 114px;
+    left: 707px;
+}
+
+#email-img{
+    height: 30px;
+    width: 40px;
+    position: relative;
+    top: 10px;
+    left: 22px;
+}
+
+#pass-img{
+    height: 29px;
+    width: 32px;
+    position: relative;
+    left: 26px;
+    top: 6px;
+}
+#email{
+    position: relative;
+    left: 25px;   
+}
+
+#password{
+    position: relative;
+    left: 32px;
+}
+
+#login-btn{
+    position: relative;
+    left: 242px;
+    top: -1px;
+    height: 30px;
+    width: 105px;
+    font-size: 17px;
+    border: none;
+    border-radius: 265px;
+    color: wheat;
+    background-color: black;
+}
+
+#login-btn:hover{
+    border: 2px solid black;
+    background-color: wheat;
+    color: black;
+    cursor: pointer;
+}
+input{
+    border-radius: 5px;
+    height: 32px;
+    width: 271px;
+}
+:placeholder-shown{
+    text-align: center;
+    font-size: 19px;
+}
