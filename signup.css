@@ -32,6 +32,8 @@ input{
     border-radius: 5px;
     height: 32px;
     width: 271px;
+    text-align: center;
+    font-size: 19px;
 }
 :placeholder-shown{
     text-align: center;

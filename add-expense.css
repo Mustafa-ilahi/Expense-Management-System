@@ -1,0 +1,73 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+}
+#main-heading{
+    text-align: center;
+    font-size: 25px;
+    letter-spacing: 10px;
+    position: relative;
+    top: -155px;
+}
+
+#logo{
+    position: relative;
+    top: -152px;
+    left: 701px;
+    height: 71px;
+    width: 82px;
+    /* z-index: 1;
+    /* -webkit-animation: infinite 20s linear;
+    animation: infinite 20s linear */
+}
+
+#bg{
+    background-color: darkturquoise;
+    height: 216px;
+    position: relative;
+    top: -8px;
+}
+
+#goto-dashboard-btn{
+    position: relative;
+    top: -401px;
+    left: 1042px;
+    height: 35px;
+    width: 169px;
+    font-size: 17px;
+    border-radius: 13px;
+    background-color: #748CD4;
+    border: none;
+} 
+
+#goto-dashboard-btn:hover{
+    background-color: #586CA9;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+#sub-heading{
+    text-align: center;
+    font-size: 30px;
+    letter-spacing: 10px;
+    position: relative;
+    top: -115px;
+}
+
+#logout-btn{
+    position: relative;
+    top: -400px;
+    left: 1203px;
+    height: 35px;
+    width: 114px;
+    font-size: 17px;
+    border-radius: 13px;
+    background-color: #748CD4;
+    border: none;
+}
+
+#logout-btn:hover{
+    background-color: #586CA9;
+}

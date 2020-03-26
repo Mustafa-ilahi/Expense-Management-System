@@ -76,6 +76,8 @@ input{
     border-radius: 5px;
     height: 32px;
     width: 271px;
+    font-size: 19px;
+    text-align: center;
 }
 :placeholder-shown{
     text-align: center;

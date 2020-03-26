@@ -1,0 +1,113 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+}
+#main-heading{
+    text-align: center;
+    font-size: 25px;
+    letter-spacing: 10px;
+    position: relative;
+    top: -155px;
+}
+
+#logo{
+    position: relative;
+    top: -152px;
+    left: 701px;
+    height: 71px;
+    width: 82px;
+    /* z-index: 1;
+    /* -webkit-animation: infinite 20s linear;
+    animation: infinite 20s linear */
+}
+
+#bg{
+    background-color: darkturquoise;
+    height: 216px;
+    position: relative;
+    top: -8px;
+}
+
+#goto-dashboard-btn{
+    position: relative;
+    top: -403px;
+    left: 1042px;
+    height: 35px;
+    width: 169px;
+    font-size: 17px;
+    border-radius: 13px;
+    background-color: #748CD4;
+    border: none;
+}
+
+#goto-dashboard-btn:hover{
+    background-color: #586CA9;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+#sub-heading{
+    text-align: center;
+    font-size: 30px;
+    letter-spacing: 10px;
+    position: relative;
+    top: -115px;
+}
+
+#add-category-btn{
+    position: relative;
+    top: -108px;
+    left: 524px;
+    height: 35px;
+    width: 141px;
+    font-size: 17px;
+    background-color: skyblue;
+    border: none;
+    border-radius: 20px;
+}
+
+#add-category-btn:hover{
+    background-color: #55A6B0;
+}
+
+#logout-btn{
+    position: relative;
+    top: -486px;
+    left: 1365px;
+    height: 35px;
+    width: 114px;
+    font-size: 17px;
+    border-radius: 13px;
+    background-color: #748CD4;
+    border: none;
+}
+
+#logout-btn:hover{
+    background-color: #586CA9;
+}
+
+td{
+    border-style: groove ;
+    height: 39px;
+    text-align: center;
+}
+
+table{
+    position: relative;
+    top: -74px;
+    left: 200px;
+}
+
+#id{
+    width: 223px;
+}
+
+#category{
+    width: 640px;
+}
+
+#created-on{
+    width: 315px;
+}

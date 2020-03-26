@@ -5,43 +5,44 @@ h1{
     font-size: 50px;
     letter-spacing: 10px;
     position: relative;
-    top: -46px;
+    top: -63px;
 }
 
 button{
-    background-color: black;
+    background-color: #34879C  ;
     border: none;
     height: 32px;
     width: 113px;
-    color: white;
+    /* color: white; */
     font-size: 19px;
     position: relative;
-    top: 25px;
+    top: 16px;
     left: 615px;
     border-radius: 265px;
     cursor: pointer;
 }
+
 button:hover{
-    background-color: wheat;
-    color: black;
+    background-color: #46BBD8 ;
+    /* color: black; */
 }
 body{
     background-image: url(./images/fieldset.jpg);
 }
 #main{
-    background-color: darkslategrey;
+    background-color: #2E7665;
     height: 241px;
     position: relative;
-    top: 203px;
+    top: 194px;
 }
 
 #logo{
     position: relative;
-    top: 378px;
+    top: 367px;
     left: 701px;
     height: 71px;
     width: 82px;
     z-index: 1;
-    -webkit-animation:  infinite 20s linear;
-    animation: infinite 20s linear;
+    /* -webkit-animation:  infinite 20s linear;
+    animation: infinite 20s linear; */
 }
