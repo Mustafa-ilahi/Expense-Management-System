@@ -71,3 +71,72 @@ a{
 #logout-btn:hover{
     background-color: #586CA9;
 }
+
+#description {
+    position: relative;
+    top: -106px;
+    left: 38px;
+    width: 95%;
+    height: 37px;
+    text-align: center;
+    font-size: 21px;
+    border-radius: 2px;
+}
+
+#description-label{
+    position: relative;
+    top: -122px;
+    left: 710px;
+    font-size: 25px;
+}
+
+#amount{
+    position: relative;
+    top: -73px;
+    left: 37px;
+    width: 95%;
+    height: 37px;
+    text-align: center;
+    font-size: 21px;
+    border-radius: 2px;
+}
+
+#amount-label{
+    position: relative;
+    top: -87px;
+    left: 723px;
+    font-size: 25px;
+}
+
+#category-label{
+    position: relative;
+    top: -54px;
+    left: 681px;
+    font-size: 25px;
+}
+
+#category{
+    position: relative;
+    top: -50px;
+    left: 37px;
+    width: 95%;
+    height: 37px;
+    font-size: 21px;
+    border-radius: 12px;
+}
+
+#add-btn{
+    position: relative;
+    top: -28px;
+    left: 688px;
+    height: 35px;
+    width: 141px;
+    font-size: 17px;
+    background-color: skyblue;
+    border-radius: 20px;
+    border: none;
+}
+
+#add-btn:hover{
+    background-color: #55A6B0;
+}
